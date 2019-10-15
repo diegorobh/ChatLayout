@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-computer-icons-user-vector-graphics-portable-netwo-male-user-svg-png-icon-free-download-34728-on-5b7f4c54c6b976.599707621535069268814.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-computer-icons-user-vector-graphics-portable-netwo-male-user-svg-png-icon-free-download-34728-on-5b7f4c54c6b976.599707621535069268814-2.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-computer-icons-user-vector-graphics-portable-netwo-male-user-svg-png-icon-free-download-34728-on-5b7f4c54c6b976.599707621535069268814-1.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
