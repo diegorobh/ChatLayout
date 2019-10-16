@@ -1,5 +1,5 @@
 //
-//  TableViewCell.swift
+//  RightMessageTableViewCell.swift
 //  Diego
 //
 //  Created by diego paredes on 15/10/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TableViewCell: UITableViewCell {
+class RightMessageTableViewCell: UITableViewCell {
 
     @IBOutlet weak var labelMessage: UILabel!
     
